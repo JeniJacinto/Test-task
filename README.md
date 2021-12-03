@@ -1,2 +1,2 @@
 # Test-task
-It's own test project
+It's a vuejs test project
